@@ -1,3 +1,3 @@
-# francis-allocation-model
+# Francis Allocation Model using C#
 With this novel method, challenge to back-allocate commingled fluids with different PVT behaviors can be solved systematically using correlations of oil shrinkage and gas-oil ratio in a mathematical allocation algorithm. This methodology was applied on a field case in offshore Vietnam where produced oil and gas commingled from clastic reservoirs and granite fractured basement reservoir. It is verified against PVT data from lab and other measurements.
 You can get this C# application from the link: https://drive.google.com/drive/folders/1Den5Nj2jtnV8wf5LoK0TEZ_dEMmO855T?usp=sharing
